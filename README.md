@@ -1,4 +1,4 @@
-# Pecunia
+# Pecúnia
 
 `Analise e Desenvolvimento de Sistemas`
 
