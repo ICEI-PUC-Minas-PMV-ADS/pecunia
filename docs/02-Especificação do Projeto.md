@@ -14,7 +14,7 @@ Neste projeto as personas podem ser divididas em três grupos de classificação
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO   | QUERO/PRECISO |PARA |
+|Eu como| Quero|Para|
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário| Cadastrar meus gastos e ganhos financeiros| para organizar minhas finanças |
 |Usuário| Cadastrar o uso de cartões de crédito ou débito| para somar os meus gastos no mês|
@@ -40,8 +40,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
+|ID| Descrição do Requisito  |Prioridade |
+|--------|-------------------------|----|
 |RNF-001| Ícones e cores sugestivas para fácil acessibilidade a qualquer tipo de usuário.| ALTA | 
 |RNF-002| Uso de abas, com a disposição das despesas fixas mensais e semanais para melhorar a navegação e usabilidade;| ALTA | 
 |RNF-003| Exibir ao usuário um sistema de ajuda de maneira ilustrativa para o acesso de cada funcionalidade, a fim de melhorar a usabilidade;| ALTA | 
