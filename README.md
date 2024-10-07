@@ -6,7 +6,8 @@
 
 `Terceiro Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto que auxiliará na educação financeira e na administração econômica de cada usuário, além de diversos serviços ligados a organização, controle e orçamentos, o usuário também terá acesso a diversos conteúdos de conscientização sobre o tema.
+
 
 ## Integrantes
 
